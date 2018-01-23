@@ -1,0 +1,13 @@
+C:\Users\Sumeyye\Documents\Visual Studio 2017\Projects\Code\ElsenSolutions\ES.BO\bin\Debug\ES.BO.dll.config
+C:\Users\Sumeyye\Documents\Visual Studio 2017\Projects\Code\ElsenSolutions\ES.BO\bin\Debug\ES.BO.dll
+C:\Users\Sumeyye\Documents\Visual Studio 2017\Projects\Code\ElsenSolutions\ES.BO\bin\Debug\ES.BO.pdb
+C:\Users\Sumeyye\Documents\Visual Studio 2017\Projects\Code\ElsenSolutions\ES.BO\bin\Debug\EntityFramework.dll
+C:\Users\Sumeyye\Documents\Visual Studio 2017\Projects\Code\ElsenSolutions\ES.BO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sumeyye\Documents\Visual Studio 2017\Projects\Code\ElsenSolutions\ES.BO\bin\Debug\EntityFramework.xml
+C:\Users\Sumeyye\Documents\Visual Studio 2017\Projects\Code\ElsenSolutions\ES.BO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sumeyye\Documents\Visual Studio 2017\Projects\Code\ElsenSolutions\ES.BO\obj\Debug\ES.BO.csprojResolveAssemblyReference.cache
+C:\Users\Sumeyye\Documents\Visual Studio 2017\Projects\Code\ElsenSolutions\ES.BO\obj\Debug\ES.BO.dll
+C:\Users\Sumeyye\Documents\Visual Studio 2017\Projects\Code\ElsenSolutions\ES.BO\obj\Debug\ES.BO.pdb
+C:\Users\Sumeyye\Documents\Visual Studio 2017\Projects\Code\ElsenSolutions\ES.BO\bin\Debug\ES.DALL.dll
+C:\Users\Sumeyye\Documents\Visual Studio 2017\Projects\Code\ElsenSolutions\ES.BO\bin\Debug\ES.DALL.pdb
+C:\Users\Sumeyye\Documents\Visual Studio 2017\Projects\Code\ElsenSolutions\ES.BO\bin\Debug\ES.DALL.dll.config
