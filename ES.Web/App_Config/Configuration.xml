@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ConfigManager>
+  <connectionStrings>
+    <add name="ElsenOnlineEntities" connectionString="metadata=res://*/Models.Elsen.csdl|res://*/Models.Elsen.ssdl|res://*/Models.Elsen.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=.;initial catalog=ElsenOnline;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
+  </connectionStrings>
+</ConfigManager>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rewriter>
+  <!--///////////////////Admin Panel//////////////////-->
+  <rewrite url="~/Anasayfa" to="~/Default.aspx" processing="stop"/>
+  <rewrite url="~/UrunleriListele" to="~/Pages/ProductList.aspx" processing="stop"/>
+  <rewrite url="~/UrunleriEkle" to="~/Pages/NewProduct.aspx" processing="stop"/>
+  <rewrite url="~/KategoriEkle" to="~/Pages/CategoryNew.aspx" processing="stop"/>
+  <rewrite url="~/KategoriListele" to="~/Pages/CategoryList.aspx" processing="stop"/>
+  <rewrite url="~/MarkaListele" to="~/Pages/BrandList.aspx" processing="stop"/>
+  <rewrite url="~/OlcuListele" to="~/Pages/SizeList.aspx" processing="stop"/>
+  <rewrite url="~/RenkListele" to="~/Pages/ColorList.aspx" processing="stop"/>
+  <rewrite url="~/Admin" to="~/Pages/AdminAdd.aspx" processing="stop"/>
+  
+  <rewrite url="~/Slider" to="~/Pages/Slider.aspx" processing="stop"/>
+  <rewrite url="~/Hakkimizda" to="~/Pages/Hakkimizda.aspx" processing="stop"/>
+  <rewrite url="~/Iletisim" to="~/Pages/Iletisim.aspx" processing="stop"/>
+  <rewrite url="~/Login" to="~/Login.aspx" processing="stop"/>
+ 
+
+
+  <rewrite url="~/urunler/(.+)/(.+)" to="~/Pages/productDetails.aspx?pID=$2" processing="stop"/>
+  <rewrite url="~/urunler" to="~/Pages/products.aspx?t=2" processing="stop"/>
+  <rewrite url="~/iletisim" to="~/Pages/contact.aspx" processing="stop"/>
+  <rewrite url="~/koleksiyon" to="~/Pages/products.aspx?t=1" processing="stop"/>
+  <rewrite url="~/toptan" to="~/Pages/wholesaler.aspx" processing="stop"/>
+  <rewrite url="~/Arama/(.+)" to="~/Pages/products.aspx?aratext=$1&amp;id=$2" processing="stop"/>
+</rewriter>
